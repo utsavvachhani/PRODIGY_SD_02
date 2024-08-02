@@ -73,7 +73,7 @@ When the user starts the game, they will be prompted to guess a number. For exam
 
 
 **License**
-- This project is licensed under the MIT [License](https://github.com/utsavvachhani/PRODIGY_SD_02/blob/main/LICENSE) - see the LICENSE file for details.
+- This project is licensed under the MIT [License](https://utsavvachhani.github.io/PRODIGY_SD_02/LICENSE) - see the LICENSE file for details.
 
 
 **Video:**
