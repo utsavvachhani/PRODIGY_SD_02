@@ -35,7 +35,7 @@ This project is an interactive Guessing Game developed in Python. The game chall
 **How to Use**
 1. Clone the Repository:
 ```html
-git clone https://github.com/your-username/guessing-game.git
+git clone https://github.com/utsavvachhani/guessing-game.git
 cd guessing-game
 ```
 2. Run the Game:
