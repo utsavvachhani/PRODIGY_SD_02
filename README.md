@@ -75,6 +75,7 @@ When the user starts the game, they will be prompted to guess a number. For exam
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
 **Video: **
+https://utsavvachhani.github.io/PRODIGY_SD_02/2nd%20task.mp4
 
 **Task-output-Pictures : **
 ![2-1](https://github.com/user-attachments/assets/beaae7c9-a551-4f0d-9740-0010dc5804e5)
