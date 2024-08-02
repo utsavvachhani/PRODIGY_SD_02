@@ -1,4 +1,4 @@
-# Task - 02 Guessing game
+# Task - 02 Guessing game at (Prodigy InfoTech)
 import tkinter as tk
 from tkinter import messagebox
 import random
@@ -10,7 +10,7 @@ class GuessingGameApp:
 
         self.number_to_guess = random.randint(1, 100)
         self.attempts = 0
-
+ 
         self.title_label = tk.Label(root, text="Guessing Game", font=("Helvetica", 16, "bold"))
         self.title_label.pack(pady=10)
 
